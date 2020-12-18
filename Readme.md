@@ -30,3 +30,15 @@ I also included 5 out of the 6 submitted demos and the resulting binaries.
 ./run-demo.sh paint --client=emu-1.quphoria.co.uk:1337
 ```
 
+And some files from the actual challenge
+```
+./run-demo.sh mandelbrot
+./run-demo.sh talkative-client --client=challs.xmas.htsp.ro:5100
+./run-demo.sh win
+```
+
+As well as some of my test files
+```
+./run-demo.sh rainbow
+./run-demo.sh radial
+```
